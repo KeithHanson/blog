@@ -1,8 +1,8 @@
 ---
-title: Landing
+title: Consulting
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
-image: assets/images/pic07.jpg
+description: 'Mostly, I am happy to give away quick advice for free. <br />But if you need deliverables, long term guidance, <br />or time-intensive help, here is how you can work with me.'
+image: assets/images/consulting_bg.jpg
 nav-menu: true
 ---
 

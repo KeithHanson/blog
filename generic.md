@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+title: Projects
+description: Hobby and Open Source
+image: assets/images/projects_bg.jpg
 nav-menu: true
 ---
 

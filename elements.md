@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Elements
-image: assets/images/pic01.jpg
+title: About Me 
+description: What makes me tick
+image: assets/images/bw_profile.jpg
 nav-menu: true
 ---
 
